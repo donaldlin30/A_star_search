@@ -23,3 +23,4 @@ For a quick summary:
 - `h_1_summary.txt`: Results using the h1 heuristic.
 - `h_2_summary.txt`: Results using the h2 heuristic.
 - `h_3_summary.txt`: Results using our novel h3 heuristic.
+Here, N refers to the number of nodes explored, and b* refers to the effective branching factors.
